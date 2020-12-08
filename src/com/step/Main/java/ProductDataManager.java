@@ -250,9 +250,7 @@ venit = 0;
         switch (sc.next().charAt(0)){
             case 49 : {
 
-                Collections.sort(product.get(i).nume);
-
-                product.sort(name::compareToIgnoreCase);
+               
             }break;
             case 50 : {}break;
             case 51 : {}break;
